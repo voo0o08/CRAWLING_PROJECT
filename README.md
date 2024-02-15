@@ -2,6 +2,7 @@
 # CRAWLING_PROJECT : 인공지능 및 빅데이터 동향 분석
 
 <img width="446" alt="image" src="https://github.com/KDT-CRAWLING-ORGANIZAION/CRAWLING_PROJECT/assets/155411941/d3a0846b-0ff0-41df-b3e7-397943e6030a">
+
 -> 취업을 앞 둔 KDT 지식은 쌓이지만 취업을 위해 어떤 방향으로 향해야할까?
 
 # 팀 소개
