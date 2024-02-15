@@ -1,5 +1,5 @@
 # KDT5기 웹크롤링 team4 프로젝트 파일
-# CRAWLING_PROJECT : 인공지능 및 빅데이터 동향 분석
+# 인공지능 및 빅데이터 동향 분석
 
 <img width="446" alt="image" src="https://github.com/KDT-CRAWLING-ORGANIZAION/CRAWLING_PROJECT/assets/155411941/d3a0846b-0ff0-41df-b3e7-397943e6030a">
 
