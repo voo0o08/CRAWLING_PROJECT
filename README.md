@@ -8,17 +8,13 @@
 
 ## 팀 소개
 - [임소영](https://github.com/KDT-CRAWLING-ORGANIZAION/CRAWLING_PROJECT/tree/main/YS) : YimSoYoung <a href="https://github.com/YimSoYoung1001" height="5" width="10" target="_blank">
-	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
-<a> : AI 및 빅데이터 분야 트렌드 / ppt 3p~15p
+	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/><a> : AI 및 빅데이터 분야 트렌드 / ppt 3p~15p
 - [전진우](https://github.com/KDT-CRAWLING-ORGANIZAION/CRAWLING_PROJECT/tree/main/JW) : zeeenoo11 <a href="https://github.com/zeeenoo11" height="5" width="10" target="_blank">
-	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
-<a> : 빅데이터 분야 세부 직무별 트렌드 / ppt 16p~26p
-- [박희진](https://github.com/KDT-CRAWLING-ORGANIZAION/CRAWLING_PROJECT/tree/main/HJ) : ParkHeeJin00<a href="https://github.com/ParkHeeJin00" height="5" width="10" target="_blank">
-	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
-<a> : 빅데이터 분야 취업을 희망하는 취준생 조사 / ppt 27p~40p
-- [이윤서](https://github.com/KDT-CRAWLING-ORGANIZAION/CRAWLING_PROJECT/tree/main/YS) : voo0o08<a href="https://github.com/voo0o08" height="5" width="10" target="_blank">
-	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
-<a> : 워크넷으로 보는 채용기준 / ppt 41p~55p
+	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/><a> : 빅데이터 분야 세부 직무별 트렌드 / ppt 16p~26p
+- [박희진](https://github.com/KDT-CRAWLING-ORGANIZAION/CRAWLING_PROJECT/tree/main/HJ) : ParkHeeJin00 <a href="https://github.com/ParkHeeJin00" height="5" width="10" target="_blank">
+	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/><a> : 빅데이터 분야 취업을 희망하는 취준생 조사 / ppt 27p~40p
+- [이윤서](https://github.com/KDT-CRAWLING-ORGANIZAION/CRAWLING_PROJECT/tree/main/YS) : voo0o08 <a href="https://github.com/voo0o08" height="5" width="10" target="_blank">
+	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/><a> : 워크넷으로 보는 채용기준 / ppt 41p~55p
 
 
 
