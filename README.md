@@ -1,5 +1,9 @@
 # KDT5기 웹크롤링 프로젝트 : 인공지능 및 빅데이터 동향 분석
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
+---
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Panda&logoColor=white"/>
+
 ## team4 : 빅데이터 분야의 취업 트렌드
 
 <img width="446" alt="image" src="https://github.com/KDT-CRAWLING-ORGANIZAION/CRAWLING_PROJECT/assets/155411941/d3a0846b-0ff0-41df-b3e7-397943e6030a">
