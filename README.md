@@ -15,3 +15,7 @@
 - [이윤서](https://github.com/KDT-CRAWLING-ORGANIZAION/CRAWLING_PROJECT/tree/main/YS) : voo0o08 
     워크넷으로 보는 채용기준 / ppt 41p~55p
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/><img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
+
+<a href="https://github.com/KDT-CRAWLING-ORGANIZAION/CRAWLING_PROJECT/tree/main/YS" height="5" width="10" target="_blank">
+	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+<a>
